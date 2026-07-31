@@ -51,7 +51,7 @@ Mentors: Magnolia Busse (DWQ), John Herrera (DIT)
 
 Guest Teachers
 - Call 1: [Shannon Rankin](https://shannonrankin.github.io/me/) (NOAA Fisheries) - Better Science for Future Us
-- Call 3: Gregor Siegmund (UCLA) - Documentation
+- Call 3: [Gregor Siegmund](https://gregor-fausto.github.io/) (UCLA) - Documentation
 - Call 4: Rachael Blake & Kate Wing (Intertidal) - Data Strategies for Future Us
 
 ## More about Openscapes and the Champions program:
