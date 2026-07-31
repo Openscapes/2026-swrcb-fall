@@ -46,7 +46,9 @@ Some brief information about participating teams and individuals.
 
 ## Openscapes Instruction Team
 Instructors: Anna Holder (OIMA), Tina Ures (DWQ)
+
 Mentors: Magnolia Busse (DWQ), John Herrera (DIT)
+
 Guest Teachers
 - Call 1: [Shannon Rankin](https://shannonrankin.github.io/me/) (NOAA Fisheries) - Better Science for Future Us
 - Call 3: Gregor Siegmund (UCLA) - Documentation
