@@ -15,7 +15,7 @@ We will meet as a Cohort via Microsoft Teams five times over two months for 2 ho
 - **Times:** 10:00 am - 12:00 pm PT
 - **Location:** remotely, via Microsoft Teams
 
-Agenda links below are only accessible to Cohort participants, as they are also an archive of our of our shared notes. Please see <https://openscapes.org/series> for more detail and to view blank versions of the agendas. 
+Links to agendas & presentation slides below are only accessible to Cohort participants, as they are also an archive of our of our shared notes. Please see <https://openscapes.org/series> for more detail and to view blank versions of the agendas. 
 
 |  Date  |  Cohort Call Agendas  |  Presentation Slides  |  Openscapes Lessons  |  Between Cohort Calls  |
 |---------------|---------------|---------------|---------------|---------------|
