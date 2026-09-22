@@ -24,11 +24,11 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need an empty line before list items!*
 
-## My favorite froots
+## My favorite *fruits*
 
 1. Watermelon
 2. Mango
-3. Pears
+3. Pear
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -47,4 +47,4 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
-It's familiar from when I've used Rmarkdown!
+<br>It's familiar from when I've used Rmarkdown!
