@@ -45,3 +45,12 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+Testing Markdown task2. 
+**Like Headers. 
+*Like Lists:
+  1. How it went
+  2. Questions Asked
+  3. Getting on the same page
+Adding a hyperlink > `[this book](https://www.google.com/search?q=how+big+things+get+done+book&oq=how+big+things+get+done&gs_lcrp=EgRlZGdlKgcIARAAGIAEMgYIABBFGDkyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgAQyCAgKEOkHGPxV0gEINTcyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)`.
+
+Did any of this work?!
