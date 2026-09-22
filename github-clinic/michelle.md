@@ -20,13 +20,15 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 
 We can make words **bold** or *italic*.
 
-### We can make headers.
+### I'm editing this HEADER.
 
 We can make lists – *note that lists need an empty line before list items!*
 
-1. bananas
-2. tamales
-3. cakes
+## My favorite froots
+
+1. Watermelon
+2. Mango
+3. Pears
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -45,3 +47,4 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+It's familiar from when I've used Rmarkdown!
