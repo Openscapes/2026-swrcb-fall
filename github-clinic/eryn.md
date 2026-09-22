@@ -43,5 +43,23 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
 ## NOTES
+### Booker Prize 2026
+The Booker Prize is an international literary award given every year to a book published in English. 
+
+**Booker Long List**
+
+1. The Disappearers
+2. The Vivisectors
+3. The Shadow of the Object
+4. John of John
+5. Others.......
+
+**Booker Short List**
+
+*To be released September 2026.*
+
+**Booker Award Winner**
+
+*To be released November 2026.*
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
