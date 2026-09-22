@@ -5,8 +5,9 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 ## Task 1: Commit an edit from the browser
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
-
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+                                                                      VVV Just below this.
+Next, make an edit to the text in this file. One idea is to fix this TYPO.  <-- the typo was right here
+                                                                      ^^^ A little too far, right here
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
