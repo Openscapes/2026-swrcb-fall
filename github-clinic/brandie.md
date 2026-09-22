@@ -51,6 +51,11 @@ Testing Markdown task2.
   1. How it went
   2. Questions Asked
   3. Getting on the same page
-Adding a hyperlink >`[this book]``(https://www.google.com/search?q=how+big+things+get+done+book&oq=how+big+things+get+done&gs_lcrp=EgRlZGdlKgcIARAAGIAEMgYIABBFGDkyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgAQyCAgKEOkHGPxV0gEINTcyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)`.
+Adding a hyperlink >`[this book](https://www.google.com/search?q=how+big+things+get+done+book&oq=how+big+things+get+done&gs_lcrp=EgRlZGdlKgcIARAAGIAEMgYIABBFGDkyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgAQyCAgKEOkHGPxV0gEINTcyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)`.
 
 Did any of this work?!
+Test image of California Water Board Data Center source page
+
+`![screenshot](<img width="1542" height="842" alt="image" src="https://github.com/user-attachments/assets/24d453b7-6b86-4b1f-9339-c136a74a3db9" />)`
+
+
