@@ -43,7 +43,7 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
 >**Wow** *I need a little more practice*
->>- I'll be sure to review the [Markdown guide](https://quarto.org/docs/authoring/markdown-basics.html)
+- I'll be sure to review the [Markdown guide](https://quarto.org/docs/authoring/markdown-basics.html)
 
 ## NOTES
 
