@@ -42,6 +42,7 @@ Some brief information about participating teams and individuals.
   - Add your info here!
 - Teams:
   - Add your info here!
+  - NAU Analytics Guild (Chris Bayne, David Leslie, Rachel Skillman): Our goal is to improve documentation for our complex workflows that produce and publish Risk Assessment data
 
 
 ## Openscapes Instruction Team
