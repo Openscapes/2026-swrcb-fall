@@ -42,6 +42,7 @@ Some brief information about participating teams and individuals.
   - Add your info here!
   - [Samantha Hordyk](https://github.com/shordyk): Scientific Aid at OIMA, budding computational environmental scientist!
   - [Tyler Wise-Bray](https://github.com/twise-bray): Scientific Aid at OIMA, aspiring environmental scientist and GIS professional
+  - [Emily Jensen Wolf](https://github.com/jensenwolf): Environmental Scientist at Central Coast Regional Board, stormwater unit
 - Teams:
   - Add your info here!
   - NAU Analytics Guild (Chris Bayne, David Leslie, Rachel Skillman): Our goal is to improve documentation for our complex workflows that produce and publish Risk Assessment data
