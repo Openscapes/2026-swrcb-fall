@@ -40,6 +40,7 @@ Some brief information about participating teams and individuals.
 
 - Individuals:
   - Add your info here!
+  - [Samantha Hordyk](https://github.com/shordyk): Scientific Aid at OIMA, budding computational environmental scientist! 
 - Teams:
   - Add your info here!
   - NAU Analytics Guild (Chris Bayne, David Leslie, Rachel Skillman): Our goal is to improve documentation for our complex workflows that produce and publish Risk Assessment data
